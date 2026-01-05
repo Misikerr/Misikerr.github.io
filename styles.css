@@ -1372,8 +1372,8 @@ ul {
 /* === Footer Section === */
 .footer-section {
 	width: 100%;
-	background: #cbcaca;
-	color: #222;
+	background: rgb(17, 17, 17);
+	color: #cbcaca;
 	padding: 18px 0 12px 0;
 	display: flex;
 	justify-content: center;
