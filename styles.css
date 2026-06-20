@@ -1372,8 +1372,8 @@ ul {
 /* === Footer Section === */
 .footer-section {
 	width: 100%;
-	background: #cbcaca;
-	color: #222;
+	background: rgb(17, 17, 17);
+	color: #cbcaca;
 	padding: 18px 0 12px 0;
 	display: flex;
 	justify-content: center;
@@ -1408,7 +1408,7 @@ ul {
 	align-items: center;
 }
 .footer-text {
-	color: #222;
+	color: #cbcaca;
 	opacity: 0.85;
 	font-size: 0.9rem;
 	letter-spacing: 0.01em;
